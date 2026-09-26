@@ -5,34 +5,43 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/lanfranco-pucheta"><strong>LinkedIn</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  Córdoba, Argentina
+  <strong>Córdoba, Argentina</strong>
 </p>
 
-## Perfil profesional
+## Sobre mi perfil
 
-Analista Funcional Jr. con orientación a sistemas. Trabajo sobre **requerimientos, procesos, documentación funcional y pruebas**, combinando una mirada funcional con conocimientos técnicos para colaborar de forma clara con equipos de desarrollo.
+Soy **Analista Funcional Jr.** con orientación a sistemas. Trabajo sobre requerimientos, procesos, documentación funcional y pruebas, combinando una mirada funcional con conocimientos técnicos para colaborar de forma clara con equipos de desarrollo.
 
 Mi foco está en entender una necesidad, convertirla en una definición funcional concreta y acompañar su validación hasta que la solución responda a lo acordado.
 
-## Cómo trabajo
+### Lo que aporto
 
-| 01 · Entender | 02 · Definir | 03 · Validar |
-|---|---|---|
-| Relevamiento de necesidades y análisis de procesos | Historias de usuario, criterios de aceptación y documentación funcional | Pruebas funcionales y revisión de lo implementado |
-| Identificación de reglas de negocio | UML / BPMN y alcance funcional | Seguimiento con el equipo técnico |
-| Orden y priorización de información | Product Backlog y planificación | Detección de ajustes y mejoras |
+| Relevamiento | Definición funcional | Validación | Trabajo con equipos |
+|---|---|---|---|
+| Necesidades y procesos | Historias de usuario | Pruebas funcionales | Desarrollo / QA |
+| Reglas de negocio | Criterios de aceptación | Revisión de funcionalidades | Git / GitHub |
+| Alcance y prioridades | UML / BPMN | Detección de ajustes | Scrum / Kanban |
 
 ## Proyectos seleccionados
 
-| Proyecto | Mi participación | Foco |
-|---|---|---|
-| **AlDía · HealthTech** | Análisis de funcionalidades, frontend, requerimientos de interfaz, UX y pruebas funcionales. Trabajo colaborativo sobre mejoras de producto. | Análisis funcional · Frontend · UX · Testing |
-| **OncoView · Gestión de Historias Clínicas** | Proyecto de Seminario UTN. Requerimientos, historias de usuario, criterios de aceptación, documentación, revisión funcional y Product Backlog. | Requerimientos · Scrum · Documentación · Revisión |
-| **[Bomvino](https://github.com/Lann206/BomvinoApp)** | Análisis y diseño de sistemas, definición de alcance, modelado del dominio e implementación organizada por capas. | Análisis de sistemas · Modelado · C# / .NET |
+### AlDía · HealthTech
+**Foco:** análisis funcional · frontend · UX · testing funcional
+
+Participo en el desarrollo y evolución de una plataforma orientada al seguimiento de pacientes. Trabajo sobre análisis de funcionalidades, requerimientos de interfaz, experiencia de usuario, pruebas funcionales y mejoras del producto en colaboración con el equipo técnico.
+
+### OncoView · Gestión de Historias Clínicas
+**Foco:** requerimientos · documentación · Scrum · revisión funcional
+
+Proyecto de Seminario UTN orientado a la gestión de historias clínicas. Trabajo sobre requerimientos, historias de usuario, criterios de aceptación, documentación funcional, Product Backlog y revisión de funcionalidades.
+
+### [Bomvino](https://github.com/Lann206/BomvinoApp)
+**Foco:** análisis de sistemas · modelado · C# / .NET
+
+Aplicación orientada a la gestión y consulta de información sobre vinos, bodegas, reseñas y calificaciones. El proyecto incluye definición de alcance, modelado del dominio y una implementación organizada por capas.
 
 > **Privacidad:** AlDía y OncoView se mantienen en repositorios privados. No publico código, documentación interna ni información sensible de esos proyectos.
 
-## Competencias y herramientas
+## Herramientas y conocimientos
 
 **Análisis funcional**  
 Relevamiento de requerimientos · Historias de usuario · Criterios de aceptación · Reglas de negocio · Documentación funcional · UML · BPMN · Pruebas funcionales
@@ -57,7 +66,10 @@ Scrum · Kanban · Product Backlog · Sprint Planning · Jira · Notion
 Universidad Tecnológica Nacional · Facultad Regional Córdoba  
 Estudiante avanzado, cursando materias de 4.º y 5.º año.
 
+## Intereses profesionales
+
+Analista Funcional Jr. · Analista de Sistemas Jr. · QA Funcional Jr.
+
 ## Contacto
 
-**LinkedIn:** [linkedin.com/in/lanfranco-pucheta](https://www.linkedin.com/in/lanfranco-pucheta)  
-**Ubicación:** Córdoba, Argentina
+[LinkedIn](https://www.linkedin.com/in/lanfranco-pucheta) · Córdoba, Argentina
