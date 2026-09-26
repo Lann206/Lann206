@@ -26,7 +26,7 @@ Trabajo principalmente sobre frontend, análisis de funcionalidades, requerimien
 
 **Áreas aplicadas:** análisis funcional, frontend, UX, testing funcional y Git/GitHub.
 
-> El código principal del proyecto se mantiene en repositorios privados del equipo.
+> Repositorio privado del equipo. No se expone código ni información interna del proyecto.
 
 ### OncoView | Sistema de Gestión de Historias Clínicas
 
@@ -36,7 +36,7 @@ Participo principalmente desde el análisis funcional, trabajando sobre requerim
 
 **Áreas aplicadas:** análisis funcional, requerimientos, documentación, Scrum, revisión funcional y Git/GitHub.
 
-> El repositorio del proyecto no se expone públicamente mientras continúa su desarrollo.
+> Repositorio privado del equipo. No se expone código ni documentación interna del proyecto.
 
 ### Bomvino
 
