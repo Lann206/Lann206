@@ -4,54 +4,43 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lanfranco-pucheta"><strong>LinkedIn</strong></a>
-  &nbsp;·&nbsp;
+  &nbsp;&nbsp;·&nbsp;&nbsp;
   Córdoba, Argentina
 </p>
 
-## Perfil
+## Perfil profesional
 
-Analista Funcional Jr. con orientación a sistemas y experiencia en proyectos de software trabajando sobre **requerimientos, procesos, documentación funcional, historias de usuario, criterios de aceptación y pruebas funcionales**.
+Analista Funcional Jr. con orientación a sistemas. Trabajo sobre **requerimientos, procesos, documentación funcional y pruebas**, combinando una mirada funcional con conocimientos técnicos para colaborar de forma clara con equipos de desarrollo.
 
-Me interesa trabajar entre la necesidad del negocio y la implementación técnica: entender el problema, ordenar la información, definir funcionalidades claras y acompañar su evolución junto al equipo de desarrollo.
+Mi foco está en entender una necesidad, convertirla en una definición funcional concreta y acompañar su validación hasta que la solución responda a lo acordado.
 
-### Competencias principales
+## Cómo trabajo
 
-| Análisis funcional | Procesos y calidad | Trabajo técnico |
+| 01 · Entender | 02 · Definir | 03 · Validar |
 |---|---|---|
-| Relevamiento de requerimientos | Pruebas funcionales | SQL y bases de datos |
-| Historias de usuario | UML / BPMN | Git / GitHub |
-| Criterios de aceptación | Reglas de negocio | Frontend web |
-| Documentación funcional | Scrum / Kanban | Integración con equipos técnicos |
+| Relevamiento de necesidades y análisis de procesos | Historias de usuario, criterios de aceptación y documentación funcional | Pruebas funcionales y revisión de lo implementado |
+| Identificación de reglas de negocio | UML / BPMN y alcance funcional | Seguimiento con el equipo técnico |
+| Orden y priorización de información | Product Backlog y planificación | Detección de ajustes y mejoras |
 
-## Proyectos destacados
+## Proyectos seleccionados
 
-### AlDía · HealthTech
-**Rol / foco:** análisis funcional, frontend, UX y testing funcional.
+| Proyecto | Mi participación | Foco |
+|---|---|---|
+| **AlDía · HealthTech** | Análisis de funcionalidades, frontend, requerimientos de interfaz, UX y pruebas funcionales. Trabajo colaborativo sobre mejoras de producto. | Análisis funcional · Frontend · UX · Testing |
+| **OncoView · Gestión de Historias Clínicas** | Proyecto de Seminario UTN. Requerimientos, historias de usuario, criterios de aceptación, documentación, revisión funcional y Product Backlog. | Requerimientos · Scrum · Documentación · Revisión |
+| **[Bomvino](https://github.com/Lann206/BomvinoApp)** | Análisis y diseño de sistemas, definición de alcance, modelado del dominio e implementación organizada por capas. | Análisis de sistemas · Modelado · C# / .NET |
 
-Participación en el desarrollo y evolución de una plataforma orientada al seguimiento de pacientes. Trabajo sobre análisis de funcionalidades, requerimientos de interfaz, experiencia de usuario, pruebas y mejoras sobre funcionalidades existentes en colaboración con el equipo técnico.
+> **Privacidad:** AlDía y OncoView se mantienen en repositorios privados. No publico código, documentación interna ni información sensible de esos proyectos.
 
-> 🔒 Repositorio privado del equipo. No se expone código ni información interna del proyecto.
+## Competencias y herramientas
 
----
+**Análisis funcional**  
+Relevamiento de requerimientos · Historias de usuario · Criterios de aceptación · Reglas de negocio · Documentación funcional · UML · BPMN · Pruebas funcionales
 
-### OncoView · Sistema de Gestión de Historias Clínicas
-**Rol / foco:** análisis funcional, requerimientos, documentación y revisión funcional.
+**Metodologías y gestión**  
+Scrum · Kanban · Product Backlog · Sprint Planning · Jira · Notion
 
-Proyecto orientado a la gestión de historias clínicas y seguimiento de información médica. Trabajo sobre requerimientos, historias de usuario, criterios de aceptación, documentación, revisión funcional, Product Backlog y organización del trabajo con Scrum.
-
-> 🔒 Repositorio privado del equipo. No se expone código ni documentación interna del proyecto.
-
----
-
-### Bomvino
-**Rol / foco:** análisis y diseño de sistemas, alcance funcional y modelado.
-
-Aplicación orientada a la gestión y consulta de información sobre vinos, bodegas, reseñas y calificaciones. El proyecto incluye una implementación organizada por capas y trabajo sobre definición de alcance y modelado del dominio.
-
-[Ver repositorio →](https://github.com/Lann206/BomvinoApp)
-
-## Tecnologías y herramientas
-
+**Datos y desarrollo**
 <p>
   <img src="https://img.shields.io/badge/SQL-Data-0B7285?style=flat-square" alt="SQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square" alt="PostgreSQL" />
@@ -62,18 +51,13 @@ Aplicación orientada a la gestión y consulta de información sobre vinos, bode
   <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?style=flat-square&logo=github&logoColor=fff" alt="GitHub" />
 </p>
 
-**Análisis y procesos:** UML · BPMN · Historias de usuario · Criterios de aceptación · Pruebas funcionales  
-**Metodologías:** Scrum · Kanban · Product Backlog · Sprint Planning  
-**Gestión:** Jira · Notion · GitHub
-
 ## Formación
 
 **Ingeniería en Sistemas de Información**  
-Universidad Tecnológica Nacional · Facultad Regional Córdoba
-
+Universidad Tecnológica Nacional · Facultad Regional Córdoba  
 Estudiante avanzado, cursando materias de 4.º y 5.º año.
 
 ## Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/lanfranco-pucheta)
-- Córdoba, Argentina
+**LinkedIn:** [linkedin.com/in/lanfranco-pucheta](https://www.linkedin.com/in/lanfranco-pucheta)  
+**Ubicación:** Córdoba, Argentina
