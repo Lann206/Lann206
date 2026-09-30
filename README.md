@@ -36,12 +36,12 @@ Participo en el desarrollo y evolución de una plataforma orientada al seguimien
 
 Proyecto de Seminario UTN orientado a la gestión de historias clínicas. Trabajo sobre requerimientos, historias de usuario, criterios de aceptación, documentación funcional, Product Backlog y revisión de funcionalidades.
 
-### [Bomvino](https://github.com/Lann206/BomvinoApp)
+### Bomvino
 **Foco:** análisis de sistemas · modelado · C# / .NET
 
 Aplicación orientada a la gestión y consulta de información sobre vinos, bodegas, reseñas y calificaciones. El proyecto incluye definición de alcance, modelado del dominio y una implementación organizada por capas.
 
-> **Privacidad:** AlDía y OncoView se mantienen en repositorios privados. No publico código, documentación interna ni información sensible de esos proyectos.
+> **Privacidad:** AlDía, OncoView y Bomvino se mantienen en repositorios privados. No publico código, documentación interna ni información sensible de esos proyectos.
 
 ## Herramientas y conocimientos
 
