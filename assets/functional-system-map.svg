@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="330" viewBox="0 0 960 330" role="img" aria-labelledby="title desc">
+  <title id="title">Mapa de trabajo de Lanfranco Pucheta</title>
+  <desc id="desc">Flujo de análisis funcional desde una necesidad hasta una solución validada.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#102b28"/>
+      <stop offset="100%" stop-color="#183a35"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity=".18"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="958" height="328" rx="22" fill="url(#bg)" stroke="#2f514a"/>
+  <text x="42" y="48" fill="#d9f477" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2">FUNCTIONAL SYSTEM MAP</text>
+  <text x="42" y="78" fill="#fffdf8" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">De una necesidad a una solución comprobable</text>
+  <text x="42" y="104" fill="#b8c9be" font-family="Arial,Helvetica,sans-serif" font-size="13">Análisis funcional · procesos · documentación · validación</text>
+
+  <line x1="132" y1="190" x2="828" y2="190" stroke="#496760" stroke-width="2"/>
+  <circle cx="132" cy="190" r="6" fill="#d9f477"/>
+  <circle cx="364" cy="190" r="6" fill="#ff7148"/>
+  <circle cx="596" cy="190" r="6" fill="#d9f477"/>
+  <circle cx="828" cy="190" r="6" fill="#ff7148"/>
+
+  <g filter="url(#shadow)">
+    <rect x="58" y="132" width="148" height="116" rx="16" fill="#f4f0e7"/>
+    <rect x="290" y="132" width="148" height="116" rx="16" fill="#f4f0e7"/>
+    <rect x="522" y="132" width="148" height="116" rx="16" fill="#f4f0e7"/>
+    <rect x="754" y="132" width="148" height="116" rx="16" fill="#f4f0e7"/>
+  </g>
+
+  <text x="76" y="160" fill="#ff7148" font-family="monospace" font-size="11" font-weight="700">01 / INPUT</text>
+  <text x="76" y="187" fill="#172421" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Necesidad</text>
+  <text x="76" y="211" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">usuario · contexto</text>
+  <text x="76" y="228" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">alcance · prioridad</text>
+
+  <text x="308" y="160" fill="#ff7148" font-family="monospace" font-size="11" font-weight="700">02 / ANALYSIS</text>
+  <text x="308" y="187" fill="#172421" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Proceso</text>
+  <text x="308" y="211" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">actores · reglas</text>
+  <text x="308" y="228" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">datos · excepciones</text>
+
+  <text x="540" y="160" fill="#ff7148" font-family="monospace" font-size="11" font-weight="700">03 / DEFINITION</text>
+  <text x="540" y="187" fill="#172421" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Definición</text>
+  <text x="540" y="211" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">historias · criterios</text>
+  <text x="540" y="228" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">UML · BPMN</text>
+
+  <text x="772" y="160" fill="#ff7148" font-family="monospace" font-size="11" font-weight="700">04 / VALIDATION</text>
+  <text x="772" y="187" fill="#172421" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">Comprobación</text>
+  <text x="772" y="211" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">pruebas · evidencia</text>
+  <text x="772" y="228" fill="#626e68" font-family="Arial,Helvetica,sans-serif" font-size="11">ajustes · resultado</text>
+
+  <text x="42" y="292" fill="#91a79b" font-family="monospace" font-size="11">SQL · PostgreSQL · Git/GitHub · Jira · Notion · Scrum · Kanban</text>
+  <text x="918" y="292" text-anchor="end" fill="#d9f477" font-family="monospace" font-size="11">status: ready</text>
+</svg>
