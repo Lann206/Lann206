@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 390" width="960" height="390" role="img" aria-labelledby="title desc">
+  <title id="title">Lanfranco Pucheta — Analista Funcional Jr.</title>
+  <desc id="desc">Tarjeta visual de perfil con foco en análisis funcional, procesos, datos y validación.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#d9f477"/>
+      <stop offset="1" stop-color="#ff7148"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="960" height="390" rx="18" fill="#102b28"/>
+  <rect x="9" y="9" width="942" height="372" rx="13" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="35" cy="35" r="5" fill="#ff7148"/>
+  <circle cx="54" cy="35" r="5" fill="#f4d36f"/>
+  <circle cx="73" cy="35" r="5" fill="#d9f477"/>
+  <text x="98" y="41" fill="#91a79b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">lanfranco · functional profile · active</text>
+  <path d="M29 58H931" stroke="#2f514a"/>
+
+  <rect x="29" y="78" width="594" height="271" rx="9" fill="#183a35" stroke="#46665f" stroke-width="1.5"/>
+  <text x="48" y="111" fill="#d9f477" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700">❯ whoami</text>
+  <text x="48" y="143" fill="#fffdf8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">lanfranco_pucheta</text>
+  <text x="236" y="143" fill="#91a79b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">—</text>
+  <text x="262" y="143" fill="#ffb199" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">Analista Funcional Jr.</text>
+
+  <path d="M48 166H604" stroke="#2f514a"/>
+  <text x="48" y="196" fill="#91a79b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">context:</text>
+  <text x="166" y="196" fill="#d9f477" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Córdoba, Argentina</text>
+  <text x="48" y="225" fill="#91a79b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">mission:</text>
+  <text x="166" y="225" fill="#fffdf8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">ordenar necesidades y volverlas verificables</text>
+
+  <text x="48" y="267" fill="#d9f477" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="20" font-weight="700">❯ ls focus/</text>
+  <text x="48" y="299" fill="#ffb199" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">analysis/</text>
+  <text x="214" y="299" fill="#c7d4cd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">requerimientos · procesos · reglas</text>
+  <text x="48" y="326" fill="#ffb199" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">validation/</text>
+  <text x="214" y="326" fill="#c7d4cd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16">QA funcional · evidencia · soporte</text>
+
+  <rect x="651" y="78" width="280" height="271" rx="9" fill="#183a35" stroke="#46665f" stroke-width="1.5"/>
+  <text x="674" y="111" fill="#ffb199" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">functional runtime</text>
+
+  <path d="M686 203 H895" stroke="#496760" stroke-width="2" stroke-dasharray="8 8">
+    <animate attributeName="stroke-dashoffset" values="0;-32" dur="2s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#102b28" stroke="#d9f477">
+    <circle cx="698" cy="203" r="12"/>
+    <circle cx="761" cy="203" r="12"/>
+    <circle cx="824" cy="203" r="12"/>
+    <circle cx="887" cy="203" r="12"/>
+  </g>
+
+  <circle cx="698" cy="203" r="5" fill="#fffdf8" filter="url(#glow)">
+    <animate attributeName="cx" values="698;761;824;887;698" keyTimes="0;.3;.6;.9;1" dur="5.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;1;0" dur="5.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <g fill="#c7d4cd" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" text-anchor="middle">
+    <text x="698" y="235">need</text>
+    <text x="761" y="235">process</text>
+    <text x="824" y="235">define</text>
+    <text x="887" y="235">test</text>
+  </g>
+
+  <rect x="674" y="265" width="234" height="34" rx="17" fill="#102b28" stroke="#46665f"/>
+  <circle cx="693" cy="282" r="5" fill="#d9f477">
+    <animate attributeName="opacity" values=".3;1;.3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="706" y="286" fill="#d9f477" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12">status: open_to_work</text>
+  <text x="674" y="326" fill="#91a79b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14">systems · process · QA</text>
+</svg>
