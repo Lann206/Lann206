@@ -15,6 +15,11 @@
   </defs>
 
   <rect width="1200" height="320" rx="30" fill="url(#bg)"/>
+  <g opacity=".12">
+    <rect x="-260" y="0" width="220" height="320" fill="#7DD3FC">
+      <animate attributeName="x" values="-260;1240" dur="8.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
 
   <circle cx="1040" cy="10" r="210" fill="#38BDF8" fill-opacity="0.04">
     <animate attributeName="cx" values="1040;1085;1040" dur="14s" repeatCount="indefinite"/>
@@ -32,6 +37,14 @@
   <text x="104" y="198" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Conecto necesidades, procesos y equipos técnicos para convertirlos</text>
   <text x="104" y="224" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">en soluciones claras, trazables y verificables.</text>
   <text x="104" y="262" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Requerimientos · Procesos · SQL · Scrum · Testing Funcional</text>
+
+  <g transform="translate(104,282)">
+    <circle cx="5" cy="5" r="5" fill="#d9f477">
+      <animate attributeName="opacity" values=".35;1;.35" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="4;6;4" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="10" fill="#B6C8C0" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing=".8">PROFILE / ACTIVE</text>
+  </g>
 
   <g transform="translate(770,62)">
     <text x="0" y="0" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.6">FLUJO DE TRABAJO</text>
