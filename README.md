@@ -99,13 +99,13 @@ Proyecto de Seminario UTN orientado a la gestión de historias clínicas. Trabaj
 **C# · Diseño de sistemas · Documentación · Validación**
 
 Caso público para recorrer y revisar eventos sísmicos separando responsabilidades de recorrido y dominio.  
-[Demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/red-sismica-iterator/web/) · [Código y documentación](https://github.com/Lann206/portfolio-lanfranco/tree/main/projects/red-sismica-iterator)
+[Demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/red-sismica-iterator/web/) · [Presentación pública](https://github.com/Lann206/portfolio-presentacion)
 
 ### Mesa de incidentes · Soporte de Aplicaciones
 **Incidentes · Priorización · SLA · Casos de prueba**
 
 Prototipo público para registrar, priorizar y seguir incidentes con reglas visibles de prioridad y vencimiento.  
-[Demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/incident-sla/) · [Reglas y pruebas](https://github.com/Lann206/portfolio-lanfranco/tree/main/projects/incident-sla)
+[Demo](https://lanfranco-pucheta-portfolio.onrender.com/projects/incident-sla/) · [Presentación pública](https://github.com/Lann206/portfolio-presentacion)
 
 > **Privacidad:** AlDía, OncoView y Bomvino se mantienen en repositorios privados. No publico código, documentación interna ni información sensible de esos proyectos.
 
