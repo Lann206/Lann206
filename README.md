@@ -83,6 +83,49 @@
 
 ---
 
+## `$ scan ./projects --quick`
+
+<table>
+  <thead>
+    <tr>
+      <th>Proyecto</th>
+      <th>Mi enfoque</th>
+      <th>Qué demuestra</th>
+      <th>Acceso</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>AlDía</strong><br><sub>HealthTech</sub></td>
+      <td>Análisis funcional · Frontend · UX</td>
+      <td>Requerimientos, mejora de funcionalidades y testing funcional</td>
+      <td>Privado</td>
+    </tr>
+    <tr>
+      <td><strong>OncoView</strong><br><sub>Gestión clínica</sub></td>
+      <td>Requerimientos · Scrum · Documentación</td>
+      <td>Historias de usuario, criterios de aceptación, backlog y revisión funcional</td>
+      <td>Privado</td>
+    </tr>
+    <tr>
+      <td><strong>Red Sísmica</strong><br><sub>Diseño de sistemas</sub></td>
+      <td>C# · Modelado · Validación</td>
+      <td>Diseño orientado a objetos, patrón Iterator y separación de responsabilidades</td>
+      <td><a href="https://lanfranco-pucheta-portfolio.onrender.com/projects/red-sismica-iterator/web/">Demo</a></td>
+    </tr>
+    <tr>
+      <td><strong>Mesa de incidentes</strong><br><sub>Soporte de aplicaciones</sub></td>
+      <td>Incidentes · SLA · Testing</td>
+      <td>Priorización, reglas de negocio, seguimiento y casos de prueba</td>
+      <td><a href="https://lanfranco-pucheta-portfolio.onrender.com/projects/incident-sla/">Demo</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>Selección rápida para recruiters: cada proyecto está presentado por problema, aporte y evidencia, no solo por tecnología.</sub>
+
+---
+
 ## `$ ls ./projects`
 
 ### AlDía · HealthTech
