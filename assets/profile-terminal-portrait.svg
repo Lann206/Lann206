@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+<title id="title">Lanfranco Pucheta — perfil profesional en formato editor</title>
+<desc id="desc">Presentación inspirada en una terminal, con panel visual y datos reales de análisis funcional, proyectos y contacto. El retrato se incorporará después.</desc>
+<defs>
+ <style>
+  :root{color-scheme:dark light}
+  .bg{fill:#10121c}.frame{fill:#171d2d;stroke:#3b445c}.pane{fill:#1b2235;stroke:#39435b}.line{stroke:#34415b}.fg{fill:#e9eaf1}.muted{fill:#8f9bb3}.pink{fill:#f3a4c5}.purple{fill:#b5a0ed}.green{fill:#a8d5c4}.soft{fill:#aab4ca}.badge{fill:#323a55}.code{font:19px 'Courier New',monospace}.sm{font:15px 'Courier New',monospace}.head{font:700 20px 'Courier New',monospace}.big{font:700 26px 'Courier New',monospace}
+  @media(prefers-color-scheme:light){.bg{fill:#fffafd}.frame{fill:#fff5fa;stroke:#e6cddd}.pane{fill:#ffeef6;stroke:#e7cddd}.line{stroke:#e5c8d7}.fg{fill:#302d40}.muted{fill:#82718b}.pink{fill:#bf477b}.purple{fill:#7862a5}.green{fill:#447e69}.soft{fill:#5e566b}.badge{fill:#f1d8e8}}
+ </style>
+ <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="1.8" fill="#f0a2c6"/></pattern>
+ <mask id="letters"><rect width="390" height="390" fill="#000"/><text x="195" y="284" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="222" fill="#fff" letter-spacing="-18">LP</text></mask>
+ <clipPath id="leftclip"><rect x="39" y="111" width="432" height="457" rx="10"/></clipPath>
+</defs>
+<rect width="1200" height="620" rx="24" class="bg"/>
+<rect x="19" y="19" width="1162" height="582" rx="19" class="frame" stroke-width="2"/>
+<circle cx="52" cy="52" r="8" fill="#fb6677"/><circle cx="78" cy="52" r="8" fill="#ffc052"/><circle cx="104" cy="52" r="8" fill="#39c978"/>
+<text x="600" y="59" text-anchor="middle" class="sm muted">vim profile.yml</text>
+<path d="M20 85H1180" class="line"/>
+<rect x="39" y="111" width="432" height="457" rx="10" class="pane"/>
+<rect x="489" y="111" width="672" height="457" rx="10" class="pane"/>
+<text x="57" y="147" class="head purple">VISUAL.MAP</text>
+<text x="452" y="147" text-anchor="end" class="sm muted">PORTRAIT / 1-BIT</text>
+<path d="M39 163H471M489 163H1161" class="line"/>
+<g clip-path="url(#leftclip)">
+ <path d="M62 188h17m-17 0v17M448 188h-17m17 0v17M62 535h17m-17 0v-17M448 535h-17m17 0v-17" fill="none" stroke="#74809c" stroke-width="1.5"/>
+ <rect x="66" y="181" width="374" height="345" fill="url(#dots)" mask="url(#letters)"/>
+ <text x="255" y="463" text-anchor="middle" class="sm muted">Retrato personalizado</text>
+ <text x="255" y="487" text-anchor="middle" class="sm muted">pendiente de foto</text>
+</g>
+<text x="57" y="551" class="sm muted">PTS 18000 · LP/STUDIO</text>
+<text x="511" y="147" class="head purple">profile.yml</text>
+<text x="650" y="147" class="sm muted">[YAML]</text>
+<rect x="1010" y="121" width="133" height="30" rx="15" class="badge"/>
+<text x="1077" y="142" text-anchor="middle" class="sm purple">@Lann206</text>
+<g class="code">
+ <g class="muted" font-size="16"><text x="510" y="202">01</text><text x="510" y="231">02</text><text x="510" y="260">03</text><text x="510" y="289">04</text><text x="510" y="318">05</text><text x="510" y="347">06</text><text x="510" y="376">07</text><text x="510" y="405">08</text><text x="510" y="434">09</text><text x="510" y="463">10</text><text x="510" y="492">11</text><text x="510" y="521">12</text></g>
+ <text x="555" y="202" class="purple" font-weight="bold">profile:</text>
+ <text x="576" y="231" class="pink">subject: <tspan class="fg">Lanfranco Pucheta</tspan></text>
+ <text x="576" y="260" class="pink">role: <tspan class="fg">Analista Funcional Jr.</tspan></text>
+ <text x="576" y="289" class="pink">origin: <tspan class="fg">Córdoba, Argentina</tspan></text>
+ <text x="576" y="318" class="pink">education: <tspan class="fg">Sistemas · UTN FRC</tspan></text>
+ <text x="576" y="347" class="pink">focus: <tspan class="fg">Procesos · QA · Requisitos</tspan></text>
+ <text x="555" y="376" class="purple" font-weight="bold">stack:</text>
+ <text x="576" y="405" class="pink">analysis: <tspan class="fg">UML · BPMN · Scrum</tspan></text>
+ <text x="576" y="434" class="pink">data: <tspan class="fg">SQL · PostgreSQL · MongoDB</tspan></text>
+ <text x="576" y="463" class="pink">tools: <tspan class="fg">Git · GitHub · Jira · Notion</tspan></text>
+ <text x="555" y="492" class="purple" font-weight="bold">projects:</text>
+ <text x="576" y="521" class="green">AlDía · OncoView · Red Sísmica</text>
+</g>
+<path d="M489 540H1161" class="line"/>
+<rect x="510" y="546" width="86" height="18" rx="3" fill="#ed95bb"/>
+<text x="553" y="559" text-anchor="middle" font-size="13" font-family="Courier New,monospace" fill="#1d2131" font-weight="bold">NORMAL</text>
+<text x="610" y="559" class="sm fg">profile.yml</text>
+<text x="1002" y="559" class="sm muted">[utf-8]</text>
+<text x="1139" y="559" text-anchor="end" class="sm muted">12L 100%</text>
+<text x="600" y="592" text-anchor="middle" class="sm muted">Lanfranco Pucheta · Análisis funcional · Sistemas</text>
+</svg>
