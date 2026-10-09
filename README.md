@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Lanfranco Pucheta - Analista Funcional Jr." width="100%" />
+  <img src="./assets/profile-terminal-portrait.svg" alt="Lanfranco Pucheta — presentación profesional en una ventana de editor" width="100%" />
 </p>
 
 <p align="center">
